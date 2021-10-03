@@ -1,1 +1,1 @@
-fixx 3.txt
+fix 3.txt
